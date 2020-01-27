@@ -1,0 +1,43 @@
+.searchBar {
+	border: 0.5px solid rgb(197, 189, 189, 0.4);
+	margin: auto;
+	width: 50%;
+}
+
+.searchBarTitle {
+	padding: 10px;
+}
+
+.searchBarContent input {
+	width: 100%;
+}
+
+.ArtistList {
+	border: 0.5px solid rgb(197, 189, 189, 0.4);
+	margin: auto;
+	width: 40%;
+}
+.eachArtist {
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	border: 0.5px solid rgb(197, 189, 189, 0.4);
+}
+.eachArtistImg {
+	margin: 8px;
+	border: 0.5px solid rgb(197, 189, 189, 0.4);
+}
+
+#addArtist {
+	margin-left: 10px;
+}
+#searchArtist {
+	margin-left: 5px;
+}
+.addArtistContent {
+	border: 0.5px solid rgb(197, 189, 189, 0.4);
+	margin: auto;
+	width: 40%;
+}
+
+
